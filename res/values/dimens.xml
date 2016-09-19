@@ -347,7 +347,7 @@
     <dimen name="helphub_help_list_item_image_no_scale_width">-0.99dip</dimen>
     <dimen name="icon_inside_text_side_margin">0.0dip</dimen>
     <dimen name="helphub_help_list_item_image_bitmap_y_diff">4.0dip</dimen>
-    <dimen name="recents_task_view_rounded_corners_radius">2.0dip</dimen>
+    <dimen name="recents_task_view_rounded_corners_radius">12.0dip</dimen>
     <dimen name="recents_task_view_z_min">5.0dip</dimen>
     <dimen name="recents_task_view_z_max">20.0dip</dimen>
     <dimen name="recents_task_view_remove_anim_translation_x">100.0dip</dimen>
@@ -401,7 +401,7 @@
     <dimen name="notification_scrim_wait_distance">100.0dip</dimen>
     <dimen name="hint_move_distance">75.0dip</dimen>
     <dimen name="edge_tap_area_width">48.0dip</dimen>
-    <dimen name="notification_material_rounded_rect_radius">2.0dip</dimen>
+    <dimen name="notification_material_rounded_rect_radius">9.0dip</dimen>
     <dimen name="notification_material_rounded_rect_radius_negative">-2.0dip</dimen>
     <dimen name="notification_bottom_decor_height">48.0dip</dimen>
     <dimen name="notification_children_padding">2.0dip</dimen>
