@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="recents_stack_initial_card_position">0.81</item>
+    <item type="dimen" name="recents_task_visible_area">0.54</item>
+</resources>
